@@ -1,14 +1,14 @@
-.quienestaenlinea {background: #ffba00; padding: 20px; font-family: Montserrat; font-size: 27px; font-weight: 900; width: 231px;text-align: center;}
+.quienestaenlinea {background: #ffba00; padding: 20px; font-family: Montserrat; font-size: 27px; font-weight: 900; width: 300px;text-align: center;}
 
 .contenedor-estadisticas {background: ; height: auto; width: 1000px; }
 
 .leyendas-estadisticas {height: 400px; width: 400px; padding-top: 0px; float: left;}
 
-.leyendiseno {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 0px; margin: 5px 0 0 2px; width: 130px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
+.leyendiseno {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 0px; margin: 5px 0 0 0px; width: 168px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
 .leyendiseno:hover {background-image:url(https://cdn100.picsart.com/203422999000202.gif?r1024x1024)!important; color: #ffba00!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
-.proximareunion {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 2px; margin: 5px 0 0 2px; width: 263px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
+.proximareunion {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 2px; margin: 5px 0 0 0px; width: 335px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
 .proximareunion:hover {background-image:url(https://cdn100.picsart.com/203422999000202.gif?r1024x1024)!important; color: #ffba00!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
