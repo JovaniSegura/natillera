@@ -22,3 +22,11 @@ h6{
 p{
   padding: 20px; font-family: Montserrat; font-size: 12px; font-weight: 900; .block{width:100%};text-align: center;
 }
+
+body {margin:2em;}
+tfoot tr, thead tr {
+	background: lightblue;
+}
+tfoot td {
+	font-weight:bold;
+}
