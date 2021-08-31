@@ -1,15 +1,3 @@
-@media screen and (max-width: 480px){
-  #encabezado{
-      height: auto;
-  }
-  #contenido{
-      width: auto;
-  }
-  #barra_lateral{
-      display:none;
-  }
-}
-
 .quienestaenlinea {background: #ffba00; padding: 20px; font-family: Montserrat; font-size: 27px; font-weight: 900; width: 231px;text-align: center;}
 
 .contenedor-estadisticas {background: ; height: auto; width: 1000px; }
