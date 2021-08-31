@@ -4,11 +4,11 @@
 
 .leyendas-estadisticas {height: 400px; .block{width:100%}; padding-top: 0px; float: left;}
 
-.leyendiseno {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 0px; margin: 5px 0 0 0px; width: 168px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
+.leyendiseno {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 0px; margin: 5px 0 0 0px; width: 170px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
 .leyendiseno:hover {background-image:url(https://cdn100.picsart.com/203422999000202.gif?r1024x1024)!important; color: #ffba00!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
-.proximareunion {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 2px; margin: 5px 0 0 0px; width: 335px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
+.proximareunion {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 4px; text-transform: uppercase; font-size: 11px; padding: 0px 5px; margin: 5px 0 0 0px; width: 335px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
 .proximareunion:hover {background-image:url(https://cdn100.picsart.com/203422999000202.gif?r1024x1024)!important; color: #ffba00!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
