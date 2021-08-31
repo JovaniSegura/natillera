@@ -1,4 +1,3 @@
-$(elem).prop('height', '100%');
 $(document).ready(function() {
 	// DataTable initialisation
 	$('#example').DataTable(
