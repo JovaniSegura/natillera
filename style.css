@@ -1,8 +1,8 @@
-.quienestaenlinea {background: #ffba00; padding: 20px; font-family: Montserrat; font-size: 27px; font-weight: 900; width: 300px;text-align: center;}
+.quienestaenlinea {background: #ffba00; padding: 20px; font-family: Montserrat; font-size: 27px; font-weight: 900; .block{width:100%};text-align: center;}
 
-.contenedor-estadisticas {background: ; height: auto; width: 1000px; }
+.contenedor-estadisticas {background: ; height: auto; .block{width:100%}; }
 
-.leyendas-estadisticas {height: 400px; width: 400px; padding-top: 0px; float: left;}
+.leyendas-estadisticas {height: 400px; .block{width:100%}; padding-top: 0px; float: left;}
 
 .leyendiseno {display: inline-block; text-decoration: none; font-family: Montserrat; letter-spacing: 0.1px; text-transform: uppercase; font-size: 12px; padding: 10px 0px; margin: 5px 0 0 0px; width: 168px; text-align: center; color: #000!important; transition-duration: 0.5s;-moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
 
@@ -18,4 +18,7 @@
 
 h6{
   font-size: 12px;
+  }
+p{
+  padding: 20px; font-family: Montserrat; font-size: 12px; font-weight: 900; .block{width:100%};text-align: center;
 }
