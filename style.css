@@ -30,3 +30,7 @@ tfoot tr, thead tr {
 tfoot td {
 	font-weight:bold;
 }
+
+#contenidoTabla {
+  font-size: 15px;
+}

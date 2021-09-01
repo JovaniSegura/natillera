@@ -1,0 +1,110 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#table_49364a9 th { border: 1px solid #8C8C8C;  } 
+#table_49364a9 td { border: 1px solid #8C8C8C;  } 
+.quienestaenlinea {background: #ffba00; padding: 20px; font-family: Montserrat; font-size: 27px; font-weight: 900; .block{width:100%};text-align: center;}
+
+.contenedor-estadisticas {background: ; height: auto; .block{width:100%}; }
+
+.leyendas-estadisticas {height: 400px; .block{width:100%}; padding-top: 0px; float: left;}
+
+<table id="table_e4bf9ac" cellpadding="3" cellspacing="1"  style="box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; height:90px; background:none; border: 1px solid #8C8C8C; table-layout: fixed; ">
+	<tr>
+		<td width="7%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_49364a9">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; ">#</span>
+      </div>
+    </div>
+		</td>
+		<td width="29%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_54a1c552">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; ">Descripción</span>
+      </div>
+    </div>
+		</td>
+		<td width="22%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_25ee779">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; ">Fecha</span>
+      </div>
+    </div>
+		</td>
+		<td width="21%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_555429bd">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; ">Estado</span>
+      </div>
+    </div>
+		</td>
+		<td width="20%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_46617e6a">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; ">Valor</span>
+      </div>
+    </div>
+		</td>
+	</tr>
+	<tr>
+		<td width="7%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_4146eb3e">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">1</span>
+      </div>
+    </div>
+		</td>
+		<td width="29%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_7d1752af">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">Capital inicial</span>
+      </div>
+    </div>
+		</td>
+		<td width="22%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_1fd9e86b">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">31/08/2021</span>
+      </div>
+    </div>
+		</td>
+		<td width="21%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_594a0821">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">Pagado</span>
+      </div>
+    </div>
+		</td>
+		<td width="20%" height="20px" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_4bfff64d">
+    <div style="text-align:left;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">50000<br/></span>
+      </div>
+    </div>
+		</td>
+	</tr>
+	<tr>
+		<td width="7%" height="20px" colspan="4" style="vertical-align: top; overflow:hidden; ">  <div style="" id="cell_6a5612c4">
+    <div style="text-align:center;">
+      <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">Total</span>
+      </div>
+    </div>
+		</td>
+		<td width="20%" height="20px" >
+		</td>
+	</tr>
+  </table>
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_5f62f228 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:211px; height:18px; background-color:#275930; background: linear-gradient(to bottom, #49A358, #275930); border: 2px solid #0D1F10;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle3 { text-align:center; }
+.textstyle4 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#table_49364a9 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:99%; height:97px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#cell_54a1c552 {  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#cell_25ee779 {  }
+#cell_555429bd {  }
+#cell_46617e6a {  }
+#cell_4146eb3e {  }
+#cell_7d1752af {  }
+#cell_1fd9e86b {  }
+#cell_594a0821 {  }
+#cell_4bfff64d {  }
+#cell_6a5612c4 {  }
+#cell_7a1f4a7c {  }
+#cell_3a151bc {  }
